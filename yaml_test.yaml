@@ -1,0 +1,9 @@
+name: 김현경
+addr: 서울
+foods: 
+  - 맥주
+  - 마라탕
+isMan: False
+body:
+  weight: 65
+  height: 171
