@@ -15,13 +15,11 @@ print("False or True :", False or True)    # True
 print("True or False :", True or False)    # True
 print("True or True :", True or True)      # True
 
-
 print("-- and 연산 --")
 print("False and False :", False and False) # False
 print("False and True :", False and True)   # False
 print("True and False :", True and False)   # False
 print("True and True :", True and True)     # True
-
 
 print("-- not 연산 --")
 print("not True :", not True)   # False
@@ -64,8 +62,9 @@ print("10 >= 20 :", 10 >= 20)
 result = 10 < 20
 print("result : ", result)
 
-
 is_equal = "abcd" == "abcd"
 is_different = "1234" != "1234"
 print("is_equal : ", is_equal)
 print("is_different : ", is_different)
+
+

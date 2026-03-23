@@ -20,3 +20,4 @@ result6 = "PYTHON".lower()
 # 등등 여러가지 기능들이 제공된다.
 
 print("종료합니다")
+
